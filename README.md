@@ -1,3 +1,12 @@
+https://towardsdatascience.com/how-to-connect-to-gcp-cloud-sql-with-cloud-sql-auth-proxy-in-docker-99bdf810c498
+https://blog.csdn.net/alex_yangchuansheng/article/details/102656578
+https://cloud.google.com/sql/docs/postgres/connect-auth-proxy#docker-tcp
+https://billmartin.io/blog/how-to-build-and-deploy-a-nodejs-api-on-google-cloud
+https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/main/cloud-sql/postgres/knex
+https://cloud.google.com/iam/docs/granting-changing-revoking-access#grant-single-role
+https://cloud.google.com/sql/docs/mysql/iam-roles
+https://binx.io/2021/05/19/how-to-connect-to-a-cloudsql-with-iam-authentication/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
